@@ -27,3 +27,7 @@
              2) Darg and Drop Fonts folder from node_modules/react-native-vector-iocns to xocdeproject root folder
              3) Add entry for missing fonts into info.plist. 
    <a href="https://github.com/oblador/react-native-vector-icons/issues/965#issuecomment-548042586">https://github.com/oblador/react-native-vector-icons/issues/965#issuecomment-548042586</a></h1>
+
+   #### Android
+   ##### Edit android/app/build.gradle ( NOT android/build.gradle ) and add the following:
+         apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
