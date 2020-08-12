@@ -5,7 +5,7 @@
 
  1. npm install
  2. react-native link
- 3. react-native run-ios or react-native run-android
-
+ 3. react-native run-ios (for IOS)
+ 4. react-native run-android (for Android)
 
    
