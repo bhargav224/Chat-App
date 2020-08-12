@@ -22,8 +22,8 @@
          
  ### 2. Unrecognized font family 'xyz'
  
-       #### IOS
+   #### IOS
              1) open xcodeproject in Xcode
              2) Darg and Drop Fonts folder from node_modules/react-native-vector-iocns to xocdeproject root folder
              3) Add entry for missing fonts into info.plist. 
-  [a link](https://www.quora.com)<a href="https://github.com/oblador/react-native-vector-icons/issues/965#issuecomment-548042586">https://github.com/oblador/react-native-vector-icons/issues/965#issuecomment-548042586</a></h1>
+   <a href="https://github.com/oblador/react-native-vector-icons/issues/965#issuecomment-548042586">https://github.com/oblador/react-native-vector-icons/issues/965#issuecomment-548042586</a></h1>
