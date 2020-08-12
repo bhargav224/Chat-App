@@ -1,3 +1,3 @@
-# Chat-App
-simple chat app using nodejs and socket.io
-sss
+# Cook-it Mobile App
+
+## STEPS FOR RUN ON IOS
