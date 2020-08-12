@@ -19,3 +19,10 @@
          6) react-native eject  // for generate iOS and android
          7) react-native link
          8) react-native run-ios
+         
+ ### 2. Unrecognized font family 'xyz'
+ 
+       #### IOS
+             1) open xcodeproject in Xcode
+             2) Darg and Drop Fonts folder from node_modules/react-native-vector-iocns to xocdeproject root folder
+             3) Add entry for missing fonts into info.plist. for ref <a href="https://github.com/oblador/react-native-vector-icons/issues/965#issuecomment-548042586">https://github.com/oblador/react-native-vector-icons/issues/965#issuecomment-548042586</a>
