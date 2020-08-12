@@ -20,7 +20,7 @@
          7) react-native link
          8) react-native run-ios
          
- ### 2. Unrecognized font family 'xyz'
+ ### 2. Unrecognized font family 'xyz' or not showing correctly
  
    #### IOS
              1) open xcodeproject in Xcode
