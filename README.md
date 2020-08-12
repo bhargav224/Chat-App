@@ -3,7 +3,9 @@
 
 ##To run App on IOS/Android follow below steps inside Project Folder
 
-<h3>IOS</h3>
+ 1. npm install
+ 2. react-native link
+ 3. react-native run-ios or react-native run-android
 
-<h3>Android</h3>
+
    
