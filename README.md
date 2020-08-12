@@ -11,3 +11,11 @@
  ## Common error comes during installation  
  ### 1. Error code 65 in ios xcodeproject
       ###Follow below steps for solution
+         1) rm -rf ios/build
+         2) rm -rf /tmp/metro-bundler-cache-*
+         3) rm -rf /tmp/haste-map-react-native-packager-*
+         4) rm -rf node_modules/ iOS/ android/
+         5) npm install 
+         6) react-native eject  // for generate iOS and android
+         7) react-native link
+         8) react-native run-ios
