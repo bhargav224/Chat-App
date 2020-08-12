@@ -8,4 +8,4 @@
  3. react-native run-ios (for IOS)
  4. react-native run-android (for Android)
 
-   
+ ## Common error comes during installation  
