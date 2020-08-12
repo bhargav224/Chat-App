@@ -9,3 +9,5 @@
  4. react-native run-android (for Android)
 
  ## Common error comes during installation  
+ ### 1. Error code 65 in ios xcodeproject
+     <h5>Solution</h5>
